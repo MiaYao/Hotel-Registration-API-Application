@@ -1,0 +1,6 @@
+C:\Users\Xiaoyu\Desktop\Database_A2\Database_A2\bin\Debug\Database_A2.exe.config
+C:\Users\Xiaoyu\Desktop\Database_A2\Database_A2\bin\Debug\Database_A2.exe
+C:\Users\Xiaoyu\Desktop\Database_A2\Database_A2\bin\Debug\Database_A2.pdb
+C:\Users\Xiaoyu\Desktop\Database_A2\Database_A2\obj\Debug\Database_A2.csprojResolveAssemblyReference.cache
+C:\Users\Xiaoyu\Desktop\Database_A2\Database_A2\obj\Debug\Database_A2.exe
+C:\Users\Xiaoyu\Desktop\Database_A2\Database_A2\obj\Debug\Database_A2.pdb
